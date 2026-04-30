@@ -1,0 +1,8 @@
+{
+    "chat.tools.terminal.autoApprove": {
+        "/^cd /c/Users/ADMIN/OneDrive/Documents/Programacion/racional-challenge/racional-app && ls -l checkFire\\.js && node --input-type=module checkFire\\.js$/": {
+            "approve": true,
+            "matchCommandLine": true
+        }
+    }
+}
